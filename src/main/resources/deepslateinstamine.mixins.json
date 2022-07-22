@@ -4,9 +4,9 @@
   "package": "net.fabricmc.uwu.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "BlockStateMixin"
   ],
   "client": [
-    "BlockStateMixin"
   ],
   "injectors": {
     "defaultRequire": 1
